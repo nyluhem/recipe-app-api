@@ -1,5 +1,5 @@
 FROM python:3.8.1-alpine
-MAINTAINER Nyalls Hemingway
+LABEL Nyalls Hemingway
 
 ENV PYTHONUNBUFFERED 1
 
